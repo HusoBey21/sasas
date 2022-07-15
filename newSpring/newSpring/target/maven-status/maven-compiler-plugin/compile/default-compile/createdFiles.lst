@@ -1,0 +1,5 @@
+entity\adressClass.class
+repository\adresRepository.class
+entity\addressClass.class
+com\example\newSpring\classController.class
+org\springframework\data\jpa\repository\config\EnableJpaRepositories.class
